@@ -28,7 +28,6 @@
 - **OpenAI API** (AI 기반 트레이딩 신호 분석)  
 - **Streamlit** (웹 대시보드 제공)  
 - **Pandas, NumPy** (데이터 처리 및 분석)  
-- **Dotenv** (API 키 보안 관리)  
 
 ---
 
